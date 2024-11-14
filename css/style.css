@@ -74,3 +74,12 @@
     text-decoration: line-through; (TACHADO)
     text-decoration: underline; (SUBRAYADO)*/
 }
+
+#contenido h1{
+    text-align: center;
+    border-bottom: #ccc;
+    padding: 15px;
+    color: #444;
+    text-shadow: 1px 5px 2px gray;
+    /*1° px Sombra en el ejex, 2° sombra en eje y difuminado*/
+}
