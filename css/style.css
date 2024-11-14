@@ -35,3 +35,9 @@
     padding: 15px;
     color: #444;
 }
+
+/*:hover se usa cuando el cursor pasa sobre un elemento, se comporta diferente y el cursor pointer la flechita cambia*/
+#menu ul li:hover{
+    background-color: darkblue;
+    cursor: pointer;
+}
