@@ -45,3 +45,8 @@
 #menu ul li:hover a{
     color: white;
 }
+
+.clearFix{
+    float: none;
+    clear: both;
+}
