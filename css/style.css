@@ -4,3 +4,9 @@
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#general{
+    width: 1200px;
+    margin: 0px auto; /*Centrar todo*/
+    border: 1px solid #ccc;
+}
