@@ -50,3 +50,8 @@
     float: none;
     clear: both;
 }
+
+#contenido{
+    width: 69%;
+    float: left;
+}
