@@ -22,3 +22,10 @@
 #menu{
     background-color: aliceblue;
 }
+
+#menu ul li{
+    /*display: inline-block; coloca los elementos uno al lado del otro*/
+    display: block;
+    float: left;
+    border-right: 1px solid #ccc;
+}
