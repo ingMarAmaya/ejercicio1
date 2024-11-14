@@ -62,4 +62,15 @@
     border: 1px solid #ccc;
     min-height: 500px;
     max-height: 650px;
+    text-align: justify;
+    /*overflow: hidden;
+    overflow: visible;
+    overflow: scroll;*/
+    overflow-y: scroll;
+    text-indent: 15px; /*pequeña sangría en cada parrafo*/
+    /*word-spacing: 10px; Espacio entre palabras
+    letter-spacing: 5px; Espacio entre letras
+    text-transform: uppercase; (MAYUSCULAS)
+    text-decoration: line-through; (TACHADO)
+    text-decoration: underline; (SUBRAYADO)*/
 }
