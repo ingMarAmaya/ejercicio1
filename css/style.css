@@ -59,4 +59,7 @@
 #lateral{
     float: left;
     width: 30%;
+    border: 1px solid #ccc;
+    min-height: 500px;
+    max-height: 650px;
 }
